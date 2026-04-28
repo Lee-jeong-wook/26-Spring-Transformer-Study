@@ -25,7 +25,7 @@ $$MultiHead(Q, K, V) = Concat(head_1,\dots,head_h)W^O$$
 
 ---
 
-## 3. 왜 Transformer는 RNN과 Conv 대비 장기의존성(long-range dependency)에 유리하다고 주장하는가?
+## 3. 왜 Transformer는 RNN과 CNN 대비 장기의존성(long-range dependency)에 유리하다고 주장하는가?
 논문 Section 4와 Table 1은 self-attention, RNN(recurrent), CNN(convolution)의 **복잡도**와 **maximum path length**를 비교한다.
 
 (1) Maximum Path Length의 의미를 설명하시오.
