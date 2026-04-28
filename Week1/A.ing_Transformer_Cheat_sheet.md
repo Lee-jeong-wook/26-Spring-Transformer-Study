@@ -1,4 +1,4 @@
-# Attention 치트시트 초안
+# Attention 치트시트
 
 ## Shape 표기 규칙
 
