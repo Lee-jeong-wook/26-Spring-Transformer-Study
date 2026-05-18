@@ -73,7 +73,7 @@
   - 리더보드 점수는 **Fine-tune 이후 Multi30k test BLEU** 입니다.
   - 따라서 Fine-tune은 IWSLT로 하더라도, **Multi30k 성능을 올리는 설정**이 중요합니다.
 
-### IWSLT 2017 (de→en)
+### IWSLT 2017 (de→en) 
 - **용도:** Fine-tune(미세조정) 데이터
 - **특징**
   - TED talk 번역(구어체/긴 문장/다양한 주제) 성격이 있어 Multi30k와 **문체/길이/어휘 분포가 다를 수** 있습니다.
